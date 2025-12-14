@@ -1,0 +1,13 @@
+Adjacency Matrix:
+  0  1  1  0
+  0  0  1  0
+  0  0  0  1
+  1  0  0  0
+
+Vertex degrees:
+Vertex 1: in = 1, out = 2, total = 3
+Vertex 2: in = 1, out = 1, total = 2
+Vertex 3: in = 2, out = 1, total = 3
+Vertex 4: in = 1, out = 1, total = 2
+
+Graph is not homogeneous.
